@@ -1,2 +1,2 @@
-.idea/*
-__pycache__/mhn_aws_utils.cpython-37.pyc
+**.idea/
+**__pycache__/
