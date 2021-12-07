@@ -1,8 +1,11 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python3
 
 import argparse
 from mhn_aws_utils import AWSClients
 import sys
+import logging
+
+LOG=logging.getLogger(__name__)
 
 #######################################################################################
 #       CHANGE ME
